@@ -31,6 +31,8 @@ CTRL+Z  # stops the current command, resume with fg in the foreground or bg in t
 ALT+B   # moves backward one word
 ALT+D   # deletes next word
 ALT+F   # moves forward one word
+ALT+U   # upper-case entire next word (e.g. test -> TEST)
+ALT+C   # capitalise the next word (e.g. test -> Test)
 
 DELETE  # deletes one character backward
 !!      # repeats the last command
